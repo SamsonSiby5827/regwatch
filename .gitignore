@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Downloaded regulator content: personal use only, never commit (VARA Terms of Use)
+data/
+
+# Editor / OS
+.vscode/
+Thumbs.db
